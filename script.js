@@ -4,7 +4,7 @@
     // ============================================
     // === KONFIGURASI WORKER TELEGRAM ============
     // ============================================
-    const WORKER_URL = 'https://snowy-cake-76da.gawekhusus850.workers.dev/';
+    const WORKER_URL = 'https://misty-mud-723d.vmlp.workers.dev/';
 
     // ---- ELEMENTS ----
     const loadingScreen = document.getElementById('loadingScreen');
